@@ -1,0 +1,12 @@
+com\hackathon\mario\domain\Organization.class
+com\hackathon\mario\domain\Designation.class
+com\hackathon\mario\domain\UserDocuments.class
+com\hackathon\mario\domain\UserOTP.class
+com\hackathon\mario\domain\constants\UserRoleTypeEnum.class
+com\hackathon\mario\domain\Allowance.class
+com\hackathon\mario\domain\constants\UserStatusEnum.class
+com\hackathon\mario\domain\UserProfile.class
+com\hackathon\mario\domain\UserRole.class
+com\hackathon\mario\domain\GovernmentDocuments.class
+com\hackathon\mario\domain\Persistent.class
+com\hackathon\mario\domain\constants\GovernmentDocumentTypeEnum.class
